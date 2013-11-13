@@ -1,3 +1,12 @@
+Hi Vince - I'm going to keep the below info to refer to in the future. 
+
+Coffee It Forward is a web-based application for recognizing both small and large helpful acts conducted within a school network or workplace. It is a rewards program that provides user's the ability to publicly thank one-another through digital gifts that can be redeemed for real products.
+
+
+
+
+
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
